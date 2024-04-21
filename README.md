@@ -1,2 +1,2 @@
-# simplereact
+# LittleLemon
 Little Lemon project
